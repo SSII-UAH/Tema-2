@@ -104,6 +104,25 @@ int main() {
 }
 
 ```
+# TAREAS PLANTEADAS
+## Actividad 1
+Escriba un programa que pida un número positivo por teclado y muestre la secuencia desde 0 al número leído. consejo: usar una variable extra para contar entrada: number​salida: la secuencia de números en pantalla.​
+
+Si el número introducido es 6 el programa mostrará:
+
+0 1 2 3 4 5 6
+
+## Actividad 2
+Modifique el programa anterior para que use una función para realizar la cuenta y la visualización de los números por pantalla.
+
+## Actividad 3
+Modifique el programa anterior para que pueda repetir la secuencia con 5 números. Es decir, una vez finalizada la cuenta de un número, solicite otro para realizar la cuenta nuevamente.
+
+Consejo: use otro bucle más.
+
+Consejo: Reutilice el código anterior y cree una función con el código agrupado en el bucle.
+
+
 ### Enlace a solución a las tareas planteadas
 [Enlace al cuaderno de tareas](https://colab.research.google.com/drive/1EsRMqw-jwHbkemG221NidSIq0km7OpxC?usp=sharing)
 
