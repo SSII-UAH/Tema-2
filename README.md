@@ -74,9 +74,9 @@ Escribe un programa que lea dos números reales de teclado y muestre la suma de 
 
 int main() {
     float number1, number2, result;
-    printf("Ingrese el primer número: ");
+    printf("Introduzca el primer número: ");
     scanf("%f", &number1);
-    printf("Ingrese el segundo número: ");
+    printf("Introduzca el segundo número: ");
     scanf("%f", &number2);
     result = number1 + number2;
     printf("La suma es: %f\n", result);
@@ -91,10 +91,10 @@ int main() {
     float initial_price, final_price;
     int percentage; // descuento en porcentaje
     
-    printf("Ingrese el precio inicial: ");
+    printf("Introduzca el precio inicial: ");
     scanf("%f", &initial_price);
     
-    printf("Ingrese el porcentaje de descuento: ");
+    printf("Introduzca el porcentaje de descuento: ");
     scanf("%d", &percentage);
     
     final_price = initial_price - initial_price * percentage / 100;
