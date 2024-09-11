@@ -104,7 +104,7 @@ int main() {
 }
 
 ```
-### Enlace a las tareas planteadas
+### Enlace a solución a las tareas planteadas
 [Enlace al cuaderno de tareas](https://colab.research.google.com/drive/1EsRMqw-jwHbkemG221NidSIq0km7OpxC?usp=sharing)
 
 ### Para terminar unas preguntas de la tarea
