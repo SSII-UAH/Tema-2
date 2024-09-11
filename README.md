@@ -126,6 +126,6 @@ Consejo: Reutilice el código anterior y cree una función con el código agrupa
 ### Enlace a solución a las tareas planteadas
 [Enlace al cuaderno de tareas](https://colab.research.google.com/drive/1EsRMqw-jwHbkemG221NidSIq0km7OpxC?usp=sharing)
 
-### Para terminar unas preguntas de la tarea
+### Para terminar unas preguntas sobre la actividad
 [Cuestionario sobre la tarea](https://app.wooclap.com/PXPZDH?from=event-page)
 
