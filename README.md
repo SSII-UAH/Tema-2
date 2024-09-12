@@ -123,7 +123,7 @@ Consejo: use otro bucle más.
 Consejo: Reutilice el código anterior y cree una función con el código agrupado en el bucle.
 
 
-### Enlace a solución a las tareas planteadas
+### Enlace a la solución de las tareas planteadas
 [Soluciones](https://colab.research.google.com/drive/1EsRMqw-jwHbkemG221NidSIq0km7OpxC?usp=sharing)
 
 ### Para terminar unas preguntas sobre la actividad
