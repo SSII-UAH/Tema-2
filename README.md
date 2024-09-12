@@ -136,7 +136,7 @@ Consejo: Reutilice el código anterior y cree una función con el código agrupa
 
 
 ### Enlace a la solución de las tareas planteadas
-[Soluciones](https://colab.research.google.com/drive/1EsRMqw-jwHbkemG221NidSIq0km7OpxC?usp=sharing)
+[Soluciones](https://colab.research.google.com/drive/128EF4-_flBWGG9FDNc9I9APfl5iiQNKi?usp=sharing)
 
 ### Para terminar unas preguntas sobre la actividad
 [Cuestionario sobre la tarea](https://app.wooclap.com/PXPZDH?from=event-page)
