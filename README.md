@@ -141,3 +141,6 @@ Consejo: Reutilice el código anterior y cree una función con el código agrupa
 ### Para terminar unas preguntas sobre la actividad
 [Cuestionario sobre la tarea](https://app.wooclap.com/PXPZDH?from=event-page)
 
+### Completa la siguiente encuesta para valorar la actividad
+[Encuesta](https://app.wooclap.com/PZEYMR?from=event-page)
+
